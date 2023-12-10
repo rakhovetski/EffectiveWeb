@@ -1,0 +1,24 @@
+.service-title-block {
+    margin-top: 10rem;
+    text-align: center;
+}
+
+
+.service-title {
+    text-align: center;
+}
+
+.service-line {
+    width: 3%;
+    text-align: center;
+    height: 2px;
+    background-color: black;
+
+    margin-bottom: 2rem;
+}
+
+.service-descr {
+    color: gray;
+    font-size: 1.2rem;
+}
+  

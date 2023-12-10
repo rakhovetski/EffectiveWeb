@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  
+  .header-image {
+    margin-left: 15rem;
+    height: 43rem;
+  }
+  
+  .header-block {
+    display: flex;
+    /* align-items: center; */
+  }
+  
+  .header-block-text {
+    margin-left: 11rem;
+    margin-top: 5rem;
+    font-size: 18px;
+  }
+
+  .header-title {
+    font-size: 3.5rem;
+    word-wrap: break-word;
+  }
+
+  .header-text {
+    font-size: 1.3rem;
+    color: gray;
+    text-align: left;
+  }
+  
+  .header-button {
+    border: none;
+    border-radius: 30px;
+    background-color: rgba(69, 143, 246, 1);
+    color: white;
+    height: 4rem;
+    width: 12rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 2.5rem;
+  }

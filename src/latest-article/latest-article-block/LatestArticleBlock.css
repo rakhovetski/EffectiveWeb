@@ -1,0 +1,37 @@
+.latest-article-block {
+    width: 25%;
+    height: auto;
+    margin-left: 5rem;
+    margin-bottom: 3rem;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 20px -5px gray;
+}
+
+
+.latest-article-img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+.latest-article-title {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.latest-article-text {
+    font-size: 17px;
+    color: gray;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: gray;
+}
+
+.latest-article-link {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: rgba(64, 137, 237, 1);
+}

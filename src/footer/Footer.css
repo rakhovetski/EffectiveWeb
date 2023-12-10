@@ -1,0 +1,55 @@
+.footer-left {
+    width: 20%;
+    padding-left: 10%;
+}
+
+.footer-title {
+    color: white;
+}
+
+.footer-descr {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.footer-copyright {
+    color: white;
+}
+
+.logo-footer {
+    height: 22px;
+    border: 2px solid white;
+    border-radius: 50px;
+}
+
+
+.footer-container {
+   min-height:100%;
+   position:relative;
+}
+
+
+.footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:auto;   
+   background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+   display: flex;
+   padding-top: 70px;
+}
+
+.footer-table {
+    padding-left: 60px;
+    border-collapse: separate; 
+    border-spacing: 6em 1.5em;
+    text-align: center;
+    color: white;
+}
+
+th {
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 0;
+}

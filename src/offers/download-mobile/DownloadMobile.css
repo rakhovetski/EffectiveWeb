@@ -1,0 +1,22 @@
+.download-providers {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  
+  .download-providers-image {
+    margin-left: 15rem;
+    height: 30rem;
+  }
+  
+  .download-providers-block {
+    display: flex;
+    /* align-items: center; */
+  }
+
+  .download-providers-block-text {
+    width: 25%;
+    padding-left: 17%;
+  }
+
+

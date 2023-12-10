@@ -1,0 +1,19 @@
+.leading-providers {
+    display: flex;
+    align-items: center;
+    margin-top: 3rem;
+  }
+  
+.leading-providers-image {
+  margin-left: 12rem;
+  height: 30rem;
+}
+  
+.leading-providers-block {
+  display: flex;
+}
+
+.leading-providers-block-text {
+  width: 25%;
+  padding-left: 17%;
+}
